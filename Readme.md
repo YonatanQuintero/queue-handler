@@ -12,7 +12,7 @@ This is a simple Express.js application that demonstrates how to use the `bull` 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/queue-handler.git
+git clone https://github.com/YonatanQuintero/queue-handler.git
 ```
 ````
 
